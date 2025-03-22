@@ -96,3 +96,5 @@ class TeiFastReranking(BaseReranking):
 
         return compressed_docs
         
+
+        
