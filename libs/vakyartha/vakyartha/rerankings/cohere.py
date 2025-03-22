@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from decouple import config
 
-from kotaemon.base import Document, Param
+from vakyartha.base import Document, Param
 
 from .base import BaseReranking
 
